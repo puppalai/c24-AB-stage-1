@@ -1,2 +1,2 @@
-# c24-AB-stage-1
-angry birds stage 1
+# angryBirdsStage1
+Stage 1 Angry Birds
